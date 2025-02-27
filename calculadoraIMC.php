@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora IMC</title>
+    <title>Calculadora IMC con PHP</title>
 </head>
 <body>
     <h1>Calculadora IMC</h1>
